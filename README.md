@@ -9,7 +9,6 @@ This project contains the code for a frontend application that interacts with a 
 ## Technologies Used
 
 - React
-- (Any additional libraries or tools used for front-end)
 
 ## Setup
 
